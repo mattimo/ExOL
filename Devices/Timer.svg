@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="224.36391"
+   height="130.71323"
+   id="svg4855"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Neues Dokument 8">
+  <defs
+     id="defs4857">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4690"
+       id="radialGradient4704"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.2035486,-0.03185479,0.03461407,2.3944218,-246.16681,-1266.6691)"
+       cx="178.29192"
+       cy="912.45605"
+       fx="178.29192"
+       fy="912.45605"
+       r="11.616755" />
+    <linearGradient
+       id="linearGradient4690">
+      <stop
+         style="stop-color:#414141;stop-opacity:1;"
+         offset="0"
+         id="stop4692" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="1"
+         id="stop4694" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4690"
+       id="radialGradient4696"
+       cx="178.29192"
+       cy="912.45605"
+       fx="178.29192"
+       fy="912.45605"
+       r="11.616755"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.2035486,-0.03185479,0.03461407,2.3944218,-246.16681,-1266.6691)" />
+    <linearGradient
+       id="linearGradient4792">
+      <stop
+         style="stop-color:#414141;stop-opacity:1;"
+         offset="0"
+         id="stop4794" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="1"
+         id="stop4796" />
+    </linearGradient>
+    <linearGradient
+       y2="885.93359"
+       x2="256.42856"
+       y1="885.93359"
+       x1="220"
+       spreadMethod="reflect"
+       gradientTransform="matrix(0.26956445,0,0,0.26956445,86.076419,-137.6611)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5220"
+       xlink:href="#linearGradient4176"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4176">
+      <stop
+         id="stop4178"
+         offset="0"
+         style="stop-color:#151515;stop-opacity:1;" />
+      <stop
+         id="stop4180"
+         offset="1"
+         style="stop-color:#2d2d2d;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="356.46767"
+     inkscape:cy="-326.07196"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:window-width="1280"
+     inkscape:window-height="947"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4860">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(6.4676677,-75.576996)">
+    <rect
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       style="fill:#ff6600;fill-opacity:1;stroke:none"
+       id="rect5118"
+       width="214.36391"
+       height="120.71323"
+       x="-1.4676677"
+       y="80.576996" />
+    <rect
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       y="80.576996"
+       x="-1.4676677"
+       height="120.71323"
+       width="214.36391"
+       id="rect5120"
+       style="fill:#ff6600;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       id="rect5122"
+       width="202.33327"
+       height="111.1752"
+       x="4.5476217"
+       y="85.345978" />
+    <rect
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       id="rect5124"
+       width="72.786331"
+       height="23.145603"
+       x="55.444458"
+       y="93.381805" />
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       xml:space="preserve"
+       style="font-size:28.20059013px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d40000;fill-opacity:1;stroke:none;font-family:DS-Digital;-inkscape-font-specification:DS-Digital Bold"
+       x="55.537888"
+       y="113.92752"
+       id="text5126"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5324"
+         sodipodi:role="line"
+         x="55.537888"
+         y="113.92752">00003</tspan></text>
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path5130"
+       sodipodi:cx="270.21579"
+       sodipodi:cy="921.29486"
+       sodipodi:rx="21.213203"
+       sodipodi:ry="21.970818"
+       d="m 291.42899,921.29486 c 0,12.13415 -9.49747,21.97082 -21.2132,21.97082 -11.71573,0 -21.2132,-9.83667 -21.2132,-21.97082 0,-12.13415 9.49747,-21.97082 21.2132,-21.97082 11.71573,0 21.2132,9.83667 21.2132,21.97082 z"
+       transform="matrix(0.66469428,0,0,0.6417738,-105.01928,-435.0525)" />
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       transform="matrix(0.63145957,0,0,0.60968511,-96.038741,-405.48936)"
+       d="m 291.42899,921.29486 c 0,12.13415 -9.49747,21.97082 -21.2132,21.97082 -11.71573,0 -21.2132,-9.83667 -21.2132,-21.97082 0,-12.13415 9.49747,-21.97082 21.2132,-21.97082 11.71573,0 21.2132,9.83667 21.2132,21.97082 z"
+       sodipodi:ry="21.970818"
+       sodipodi:rx="21.213203"
+       sodipodi:cy="921.29486"
+       sodipodi:cx="270.21579"
+       id="path5132"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="m 87.526689,146.31996 -0.44423,3.03757 -1.35478,-1.81882 -1.32922,-1.67629 z"
+       id="path5134"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       xml:space="preserve"
+       style="font-size:25.41872787px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Deutsch Gothic;-inkscape-font-specification:Deutsch Gothic"
+       x="104.40237"
+       y="134.77176"
+       id="text5136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5138"
+         x="104.40237"
+         y="134.77176"
+         style="font-size:8.89655495px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">10ms</tspan></text>
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       sodipodi:linespacing="125%"
+       id="text5140"
+       y="144.4639"
+       x="104.04626"
+       style="font-size:25.41872787px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Deutsch Gothic;-inkscape-font-specification:Deutsch Gothic"
+       xml:space="preserve"><tspan
+         style="font-size:8.89655495px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+         y="144.4639"
+         x="104.04626"
+         id="tspan5142"
+         sodipodi:role="line">1ms</tspan></text>
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       xml:space="preserve"
+       style="font-size:25.41872787px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Deutsch Gothic;-inkscape-font-specification:Deutsch Gothic"
+       x="104.04626"
+       y="154.15604"
+       id="text5144"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5146"
+         x="104.04626"
+         y="154.15604"
+         style="font-size:8.89655495px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">0,1ms</tspan></text>
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       sodipodi:linespacing="125%"
+       id="text5148"
+       y="134.77176"
+       x="27.900892"
+       style="font-size:25.41872787px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Deutsch Gothic;-inkscape-font-specification:Deutsch Gothic"
+       xml:space="preserve"><tspan
+         style="font-size:8.89655495px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+         y="134.77176"
+         x="27.900892"
+         id="tspan5150"
+         sodipodi:role="line">0,1s</tspan></text>
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       xml:space="preserve"
+       style="font-size:25.41872787px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Deutsch Gothic;-inkscape-font-specification:Deutsch Gothic"
+       x="35.32048"
+       y="144.4639"
+       id="text5152"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5154"
+         x="35.32048"
+         y="144.4639"
+         style="font-size:8.89655495px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">1s</tspan></text>
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       sodipodi:linespacing="125%"
+       id="text5156"
+       y="154.15604"
+       x="30.368299"
+       style="font-size:25.41872787px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Deutsch Gothic;-inkscape-font-specification:Deutsch Gothic"
+       xml:space="preserve"><tspan
+         style="font-size:8.89655495px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+         y="154.15604"
+         x="30.368299"
+         id="tspan5158"
+         sodipodi:role="line">10s</tspan></text>
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       style="fill:none;stroke:#000000;stroke-width:0.70501477px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.580609,150.72596 11.216711,0"
+       id="path5160"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       style="fill:none;stroke:#000000;stroke-width:0.70501477px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.266049,144.93956 3.78342,-4.00597 10.059421,0"
+       id="path5162"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       style="fill:none;stroke:#000000;stroke-width:0.70501477px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.945519,140.93359 7.52232,-9.61433 12.641051,0"
+       id="path5164"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       inkscape:connector-curvature="0"
+       id="path5166"
+       d="m 56.813039,150.72596 -11.21671,0"
+       style="fill:none;stroke:#000000;stroke-width:0.70501477px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       inkscape:connector-curvature="0"
+       id="path5168"
+       d="m 59.127609,144.93956 -3.78342,-4.00597 -10.05943,0"
+       style="fill:none;stroke:#000000;stroke-width:0.70501477px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       inkscape:connector-curvature="0"
+       id="path5170"
+       d="m 65.448139,140.93359 -7.52232,-9.61433 -12.64106,0"
+       style="fill:none;stroke:#000000;stroke-width:0.70501477px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       xml:space="preserve"
+       style="font-size:59.58888626px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Deutsch Gothic;-inkscape-font-specification:Deutsch Gothic"
+       x="30.777357"
+       y="111.40555"
+       id="text5172"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5174"
+         x="30.777357"
+         y="111.40555"
+         style="font-size:20.85611153px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">T=</tspan></text>
+    <rect
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       style="fill:url(#linearGradient5220);fill-opacity:1;stroke:none"
+       id="rect5176"
+       width="20.217335"
+       height="13.093129"
+       x="145.38055"
+       y="94.608551" />
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       xml:space="preserve"
+       style="font-size:20.54722214px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Deutsch Gothic;-inkscape-font-specification:Deutsch Gothic"
+       x="150.4986"
+       y="114.29703"
+       id="text5178"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5180"
+         x="150.4986"
+         y="114.29703"
+         style="font-size:7.19152737px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">0.0</tspan></text>
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       sodipodi:linespacing="125%"
+       id="text5182"
+       y="126.25647"
+       x="147.26038"
+       style="font-size:20.54722214px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Deutsch Gothic;-inkscape-font-specification:Deutsch Gothic"
+       xml:space="preserve"><tspan
+         style="font-size:7.19152737px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+         y="126.25647"
+         x="147.26038"
+         sodipodi:role="line"
+         id="tspan5184">start</tspan></text>
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       xml:space="preserve"
+       style="font-size:20.54722214px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Deutsch Gothic;-inkscape-font-specification:Deutsch Gothic"
+       x="147.68454"
+       y="138.53693"
+       id="text5186"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5188"
+         sodipodi:role="line"
+         x="147.68454"
+         y="138.53693"
+         style="font-size:7.19152737px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">stop</tspan></text>
+    <path
+       transform="matrix(0.35020262,0,0,0.35020262,107.78708,-139.56376)"
+       d="m 189.90867,912.45605 c 0,6.41576 -5.201,11.61676 -11.61675,11.61676 -6.41576,0 -11.61676,-5.201 -11.61676,-11.61676 0,-6.41575 5.201,-11.61675 11.61676,-11.61675 6.41575,0 11.61675,5.201 11.61675,11.61675 z"
+       sodipodi:ry="11.616755"
+       sodipodi:rx="11.616755"
+       sodipodi:cy="912.45605"
+       sodipodi:cx="178.29192"
+       id="path3898"
+       style="fill:#7fff2a;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       sodipodi:type="arc"
+       style="fill:#ff5555;fill-opacity:1;stroke:none"
+       id="path3902"
+       sodipodi:cx="178.29192"
+       sodipodi:cy="912.45605"
+       sodipodi:rx="11.616755"
+       sodipodi:ry="11.616755"
+       d="m 189.90867,912.45605 c 0,6.41576 -5.201,11.61676 -11.61675,11.61676 -6.41576,0 -11.61676,-5.201 -11.61676,-11.61676 0,-6.41575 5.201,-11.61675 11.61676,-11.61675 6.41575,0 11.61675,5.201 11.61675,11.61675 z"
+       transform="matrix(0.38727255,0,0,0.38727255,73.937279,-173.97349)" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.54722214px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Deutsch Gothic;-inkscape-font-specification:Deutsch Gothic"
+       x="135.16632"
+       y="192.5043"
+       id="text3908"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         id="tspan3910"
+         sodipodi:role="line"
+         x="135.16632"
+         y="192.5043"
+         style="font-size:7.19152737px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">Stop</tspan></text>
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       sodipodi:linespacing="125%"
+       id="text3916"
+       y="192.5043"
+       x="163.16632"
+       style="font-size:20.54722214px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Deutsch Gothic;-inkscape-font-specification:Deutsch Gothic"
+       xml:space="preserve"><tspan
+         style="font-size:7.19152737px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+         y="192.5043"
+         x="163.16632"
+         sodipodi:role="line"
+         id="tspan3918">Start</tspan></text>
+    <path
+       transform="matrix(0.38727255,0,0,0.38727255,103.66877,-229.58656)"
+       d="m 189.90867,912.45605 c 0,6.41576 -5.201,11.61676 -11.61675,11.61676 -6.41576,0 -11.61676,-5.201 -11.61676,-11.61676 0,-6.41575 5.201,-11.61675 11.61676,-11.61675 6.41575,0 11.61675,5.201 11.61675,11.61675 z"
+       sodipodi:ry="11.616755"
+       sodipodi:rx="11.616755"
+       sodipodi:cy="912.45605"
+       sodipodi:cx="178.29192"
+       id="path3920"
+       style="fill:url(#radialGradient4696);fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient4704);fill-opacity:1;stroke:none"
+       id="path4702"
+       sodipodi:cx="178.29192"
+       sodipodi:cy="912.45605"
+       sodipodi:rx="11.616755"
+       sodipodi:ry="11.616755"
+       d="m 189.90867,912.45605 c 0,6.41576 -5.201,11.61676 -11.61675,11.61676 -6.41576,0 -11.61676,-5.201 -11.61676,-11.61676 0,-6.41575 5.201,-11.61675 11.61676,-11.61675 6.41575,0 11.61675,5.201 11.61675,11.61675 z"
+       transform="matrix(0.38727255,0,0,0.38727255,103.66877,-216.63365)" />
+    <path
+       transform="matrix(0.20398309,0,0,0.20398309,133.72664,-6.073528)"
+       d="m 189.90867,912.45605 c 0,6.41576 -5.201,11.61676 -11.61675,11.61676 -6.41576,0 -11.61676,-5.201 -11.61676,-11.61676 0,-6.41575 5.201,-11.61675 11.61676,-11.61675 6.41575,0 11.61675,5.201 11.61675,11.61675 z"
+       sodipodi:ry="11.616755"
+       sodipodi:rx="11.616755"
+       sodipodi:cy="912.45605"
+       sodipodi:cx="178.29192"
+       id="path4722"
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       transform="matrix(0.38727255,0,0,0.38727255,73.568159,-190.3426)"
+       d="m 189.90867,912.45605 c 0,6.41576 -5.201,11.61676 -11.61675,11.61676 -6.41576,0 -11.61676,-5.201 -11.61676,-11.61676 0,-6.41575 5.201,-11.61675 11.61676,-11.61675 6.41575,0 11.61675,5.201 11.61675,11.61675 z"
+       sodipodi:ry="11.616755"
+       sodipodi:rx="11.616755"
+       sodipodi:cy="912.45605"
+       sodipodi:cx="178.29192"
+       id="path4734"
+       style="fill:#ff5555;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       sodipodi:type="arc"
+       style="fill:#7fff2a;fill-opacity:1;stroke:none"
+       id="path4738"
+       sodipodi:cx="178.29192"
+       sodipodi:cy="912.45605"
+       sodipodi:rx="11.616755"
+       sodipodi:ry="11.616755"
+       d="m 189.90867,912.45605 c 0,6.41576 -5.201,11.61676 -11.61675,11.61676 -6.41576,0 -11.61676,-5.201 -11.61676,-11.61676 0,-6.41575 5.201,-11.61675 11.61676,-11.61675 6.41575,0 11.61675,5.201 11.61675,11.61675 z"
+       transform="matrix(0.35020262,0,0,0.35020262,108.1562,-156.76275)" />
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       id="path4720"
+       sodipodi:cx="178.29192"
+       sodipodi:cy="912.45605"
+       sodipodi:rx="11.616755"
+       sodipodi:ry="11.616755"
+       d="m 189.90867,912.45605 c 0,6.41576 -5.201,11.61676 -11.61675,11.61676 -6.41576,0 -11.61676,-5.201 -11.61676,-11.61676 0,-6.41575 5.201,-11.61675 11.61676,-11.61675 6.41575,0 11.61675,5.201 11.61675,11.61675 z"
+       transform="matrix(0.22093044,0,0,0.22093044,103.23447,-22.023712)" />
+    <path
+       transform="matrix(0.22093044,0,0,0.22093044,102.86535,-38.392832)"
+       d="m 189.90867,912.45605 c 0,6.41576 -5.201,11.61676 -11.61675,11.61676 -6.41576,0 -11.61676,-5.201 -11.61676,-11.61676 0,-6.41575 5.201,-11.61675 11.61676,-11.61675 6.41575,0 11.61675,5.201 11.61675,11.61675 z"
+       sodipodi:ry="11.616755"
+       sodipodi:rx="11.616755"
+       sodipodi:cy="912.45605"
+       sodipodi:cx="178.29192"
+       id="path4736"
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.70000017;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 129.74272,175.28312 c 0.82786,-7.32381 6.72594,-10.11305 12.00612,-12.09311"
+       id="path4728"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.70000017;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 129.91672,174.76112 c 4.97121,-4.69848 8.85153,2.64685 12.44112,4.69804"
+       id="path4730"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/pub/02_Matti/Hausaufgaben/PhysGrundpraktikum/GP1/Kapitel47_18-04-2011_Radioaktivität/images/Aufbau_47_3.png"
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       id="path4740"
+       sodipodi:cx="178.29192"
+       sodipodi:cy="912.45605"
+       sodipodi:rx="11.616755"
+       sodipodi:ry="11.616755"
+       d="m 189.90867,912.45605 c 0,6.41576 -5.201,11.61676 -11.61675,11.61676 -6.41576,0 -11.61676,-5.201 -11.61676,-11.61676 0,-6.41575 5.201,-11.61675 11.61676,-11.61675 6.41575,0 11.61675,5.201 11.61675,11.61675 z"
+       transform="matrix(0.20398309,0,0,0.20398309,134.09576,-23.272572)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.70000017;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 171.15512,163.01601 c 2.12488,3.03554 5.16292,6.80025 8.61309,7.83007 -4.86822,0.88446 -9.46753,4.41142 -9.6571,8.96109"
+       id="path4732"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
